@@ -2,4 +2,4 @@
 
 Testing [Github Pages](https://pages.github.com/).
 
-Simple but effective.
+Test complete, deactivated for now.
